@@ -1,0 +1,5 @@
+pyqt5
+python-dotenv
+agent_framework
+azure-identity
+agent_framework_azure_ai
